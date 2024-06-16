@@ -4,6 +4,7 @@ package-lock.json/
 excluir.js
 teste.js
 
+dist/
 .env
 *.sqlite
 

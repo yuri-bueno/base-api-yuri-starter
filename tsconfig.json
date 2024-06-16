@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "types": ["node", "@types/express"],
+    "types": ["node"],
     "lib": ["ESNext"],
     "rootDir": "src",
     "outDir": "dist",

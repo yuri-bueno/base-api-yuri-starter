@@ -1,3 +1,9 @@
-import { Router } from "base-api-y";
+import { Router } from "zac-api";
 
-new Router({ path: "cu55555", method: "get", execute(req, res) {} });
+new Router({
+  path: "/user",
+  method: "get",
+  execute(req, res) {
+    req.body;
+  },
+});

@@ -1,5 +1,5 @@
 {
-  "name": "whatzap-2",
+  "name": "new-api",
   "version": "1.0.0",
   "description": "",
   "type": "commonjs",
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "base-api-y": "https://github.com/yuri-bueno/base-api-yuri"
+    "zac-api": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.2",
