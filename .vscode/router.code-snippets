@@ -1,0 +1,16 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript",
+    "prefix": "newRoute",
+    "body": [
+      "new Route({",
+      "  method: '$1',",
+      "  path: '/$2',",
+      "  execute: async (req, res) => {",
+      "    // Your code here",
+      "  },",
+      "})"
+    ],
+    "description": "Create a new route with Route"
+  }
+}
